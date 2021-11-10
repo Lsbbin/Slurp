@@ -85,7 +85,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<p><a href="news" class="btn1">신상품 더보기123</a></p> <!-- 신상품목록으로 이동 -->
+						sadasd
 					</div>
 				</div>
 			</div>
