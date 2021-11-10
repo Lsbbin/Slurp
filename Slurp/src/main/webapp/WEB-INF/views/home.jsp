@@ -85,7 +85,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<p><a href="news" class="btn1">더보기</a></p> <!-- 신상품목록으로 이동 -->
+						<p><a href="news" class="btn1">신상품 더보기</a></p> <!-- 신상품목록으로 이동 -->
 					</div>
 				</div>
 			</div>
@@ -104,7 +104,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<p><a href="best" class="btn1">더보기</a></p> <!-- 베스트상품목록으로 이동 -->
+						<p><a href="best" class="btn1">베스트 더보기</a></p> <!-- 베스트상품목록으로 이동 -->
 					</div>
 				</div>
 				
