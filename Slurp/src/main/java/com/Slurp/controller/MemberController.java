@@ -169,7 +169,7 @@ public class MemberController {
 			return idCheck;
 		}
 		
-		// 업체가입
+		// 업체가입 ddddddd
 		@RequestMapping("/companyJoin")
 		public ModelAndView companyJoin(CompanyDTO companyDTO, AddressDTO addressDTO) {
 			System.out.println("업체회원 가입요청");
